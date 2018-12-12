@@ -11,7 +11,7 @@
 6. パクリ
 
 なお，本記事は以下に挙げた書籍や文書の内容をベースに，山本個人の意見を加えて作成しています。学術文書の作成技術についてより深く学びたい方は，下記文献を参考にしてください：
-* 木下是雄，「理科系の作文技術」，中公新書，1981年
+* 木下是雄，「[理科系の作文技術](http://amzn.asia/d/dAK3nl5)」，中公新書，1981年
 * Jeniffer Widom, “[Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html)”
 * 山本祐輔，「[Stanford大学流科学技術論文の書き方（上記Jeniffer Widom氏の記事の翻訳）](http://hontolab.org/tips-for-research-activity/tips-for-writing-technical-papers/)」
 * 佐藤雅昭，「[なぜあなたは論文が書けないのか？](http://amzn.asia/d/6i3Ft4e)」，メディカルレビュー社，2016年
