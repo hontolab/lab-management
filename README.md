@@ -3,3 +3,4 @@
 
 # 研究手法について
 * [学術分野における作文方法について](https://github.com/ymmt3-lab/lab-management/blob/master/how-to-write-a-paper.md)
+* [DEIMおよび卒論執筆用LaTeXテンプレート](https://github.com/ymmt3-lab/DEIM-and-Thesis)
