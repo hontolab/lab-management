@@ -1,4 +1,5 @@
 # 大学研究室運営について
+* [研究室のビジョン，ミッション，行動規範](https://github.com/ymmt3-lab/lab-management/blob/master/philosophy.md)
 * [研究室を検討している学生のみなさんへ（2018年度）](https://github.com/ymmt3-lab/lab-management/blob/master/for-students-looking-for-your-lab-2018.md)
 * [卒業研究に向けて for 3年生](https://github.com/ymmt3-lab/lab-management/blob/master/for-new-comer.md)
 * [研究室における研究会の位置づけ](https://github.com/ymmt3-lab/lab-management/blob/master/what-is-research-meeting.md)
