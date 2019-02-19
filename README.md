@@ -4,7 +4,7 @@
 * [研究室における研究会の位置づけ](https://github.com/ymmt3-lab/lab-management/blob/master/what-is-research-meeting.md)
 
 # ツール
-* [研究室活動評価シート](https://github.com/ymmt3-lab/lab-management/blob/master/activity-evaluation.md)
+* [研究室活動振り返りシート](https://github.com/ymmt3-lab/lab-management/blob/master/activity-evaluation.md)
 
 # 研究手法について
 * [学術分野における作文方法について](https://github.com/ymmt3-lab/lab-management/blob/master/how-to-write-a-paper.md)
