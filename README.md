@@ -6,6 +6,7 @@
 # ツール
 * [研究室活動振り返りシート](https://github.com/ymmt3-lab/lab-management/blob/master/activity-evaluation.md)
 * [卒業研究振り返りアンケート](https://github.com/ymmt3-lab/lab-management/blob/master/bachelor-thesis-evaluation.md)
+* [半期目標セットアップシート](https://github.com/ymmt3-lab/lab-management/blob/master/goal-setting.md)
 
 # 研究手法について
 * [学術分野における作文方法について](https://github.com/ymmt3-lab/lab-management/blob/master/how-to-write-a-paper.md)
