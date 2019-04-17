@@ -15,14 +15,17 @@
 |TPDL |9月上旬 |4月上旬 |LNCS |
 |HT |9月中旬 |4月上旬 | |
 |CSCW |11月上旬 |4月上旬 | |
+|RecSys |9月中旬 |4月中旬 | |
+|ASONAM|8月下旬|4月下旬 |IEEE format|
 |WI |10月中旬 |5月上旬 |ACM format|
 |CIKM |11月上旬 |5月中旬 | |
 |WISE |11月下旬 |6月中旬 |LNCS |
 |CHI |5月上旬 |9月中旬 | |
+|ICWSM|6月中旬|9月中旬 |AAAI format|
 |CHIIR |3月中旬 |9月下旬 | |
 |IUI |3月中旬 |10月上旬 | |
 |ECIR |4月中旬 |10月上旬 |LNCS |
-|Web Conference |5月中旬 |11月上旬 | |
+|Web Conference |5月中旬 |11月上旬 |ACM format |
 |JCDL |6月上旬 |1月中旬 | |
 |SIGIR |7月下旬 |1月下旬 | |
 |WebSci |7月上旬 |2月中旬 | |
