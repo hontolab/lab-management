@@ -13,11 +13,13 @@
 * [学術分野における作文方法について](https://github.com/ymmt3-lab/lab-management/blob/master/how-to-write-a-paper.md)
 * [DEIMおよび卒論執筆用LaTeXテンプレート](https://github.com/ymmt3-lab/DEIM-and-Thesis)
 
-# 指導について
-* [（外部サイト）学生を成功に導くアドバイス by Jeffery Ullman](http://leoclock.blogspot.com/2009/04/ullman.html)
-
 
 # その他
 * [研究室を検討している学生のみなさんへ（2018年度）](https://github.com/ymmt3-lab/lab-management/blob/master/for-students-looking-for-your-lab-2018.md)
 * [ある研究室の年間スケジュール](https://github.com/ymmt3-lab/lab-management/blob/master/schedule.md)
 * [論文投稿先](https://github.com/ymmt3-lab/lab-management/blob/master/target-conference.md)
+
+# ブックマーク
+* [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html)
+* [学生を成功に導くアドバイス by Jeffery Ullman](http://leoclock.blogspot.com/2009/04/ullman.html)
+* [大学でのトレーニング：アタマがナマっている人へ のメッセージ](https://hermes-ir.lib.hit-u.ac.jp/rs/bitstream/10086/12231/1/ronso1130400210.pdf)
