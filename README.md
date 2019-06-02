@@ -13,6 +13,9 @@
 * [学術分野における作文方法について](https://github.com/ymmt3-lab/lab-management/blob/master/how-to-write-a-paper.md)
 * [DEIMおよび卒論執筆用LaTeXテンプレート](https://github.com/ymmt3-lab/DEIM-and-Thesis)
 
+# 指導について
+* [（外部サイト）学生を成功に導くアドバイス by Jeffery Ullman](http://leoclock.blogspot.com/2009/04/ullman.html)
+
 
 # その他
 * [研究室を検討している学生のみなさんへ（2018年度）](https://github.com/ymmt3-lab/lab-management/blob/master/for-students-looking-for-your-lab-2018.md)
