@@ -22,4 +22,6 @@
 # ブックマーク
 * [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html)
 * [学生を成功に導くアドバイス by Jeffery Ullman](http://leoclock.blogspot.com/2009/04/ullman.html)
-* [大学でのトレーニング：アタマがナマっている人へ のメッセージ](https://hermes-ir.lib.hit-u.ac.jp/rs/bitstream/10086/12231/1/ronso1130400210.pdf)
+* [大学でのトレーニング：アタマがナマっている人へのメッセージ](https://hermes-ir.lib.hit-u.ac.jp/rs/bitstream/10086/12231/1/ronso1130400210.pdf)
+* [九州工業大学の井上先生の「心構え編〜研究室オリエンテーション〜」](https://www.slideshare.net/SozoInoue/ss-74177553)
+* [稲見・檜山研究室 運営方針](https://note.mu/drinami/n/nbb29c0db43e2#WDK5U)
