@@ -28,4 +28,4 @@
 * [九州工業大学の井上先生の「心構え編〜研究室オリエンテーション〜」](https://www.slideshare.net/SozoInoue/ss-74177553)
 * [稲見・檜山研究室 運営方針](https://note.mu/drinami/n/nbb29c0db43e2#WDK5U)
 * [自分に合った研究室を選ぶために（稲見先生@東京大学）](https://note.mu/drinami/n/nccf6c3160955)
-* [大学院・研究者を目指す人へ](http://www7b.biglobe.ne.jp/~masaoamano/Masao_Amanos/for_future_graduate_students.html)
+* [大学院・研究者を目指す人へ](http://www7b.biglobe.ne.jp/\~masaoamano/Masao_Amanos/for_future_graduate_students.html)
