@@ -1,5 +1,5 @@
 # 大学研究室運営の理念
-* [研究室のビジョン，ミッション，行動規範](https://github.com/ymmt3-lab/lab-management/blob/master/philosophy.md)
+* [研究室のビジョン，ミッション，行動規範](https://gist.github.com/trycycle/5c303e11b5ce611a25952639ed49b2f2)
 * [卒業研究に向けて for 3年生](https://gist.github.com/trycycle/f5ff3f00e8bacedaae2ef6fb72a18d2d)
 * [研究室における研究会の位置づけ](https://gist.github.com/trycycle/04874d5cf5aa2e23e098f033f334149c)
 
