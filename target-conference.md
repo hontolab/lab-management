@@ -20,7 +20,9 @@
 |WI |10月中旬 |5月上旬 |ACM format|
 |CIKM |11月上旬 |5月中旬 | |
 |WISE |11月下旬 |6月中旬 |LNCS format|
-|WSDM |2月上旬 |8月中旬 ||
+|AIRS |11月上旬 |7月上旬 |LNCS format|
+|WSDM |2月上旬 |8月中旬 | |
+|EICS |6月中旬 |2月下旬 |複数回投稿チャンスあり |
 |CHI |5月上旬 |9月中旬 | |
 |ICWSM|6月中旬|9月中旬 |AAAI format|
 |CHIIR |3月中旬 |9月下旬 | |
@@ -31,6 +33,7 @@
 |DIS |6月下旬 |1月中旬 | |
 |SIGIR |7月下旬 |1月下旬 | |
 |INTERACT |9月上旬 |1月下旬 |LNCS format|
+|MobileHCI |10月上旬 |2月上旬 | |
 |UMAP |6月上旬 |2月上旬 | |
 |WebSci |7月上旬 |2月中旬 | |
 |AH |5月下旬 |3月中旬 | |
