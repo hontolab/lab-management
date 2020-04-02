@@ -45,10 +45,11 @@
 * 動画の配信インフラは頑強なものを用いる（YouTubeとかMicrosoft OneDriveなど）
 
 | サービス | 通信量 |
-| :--- | :---: |
+| :--- | :--- |
 | Zoom（ビデオ会議） | 200-300MB |
 | YouTube（オンデマンド動画再生; 480p） | 600MB |
 | YouTube（オンデマンド動画再生; 360p） | 330MB |
+| 音声ファイルつきPowerPointファイル | 30MB + PowerPointファイルのサイズ |
 
 ## 参考になりそうなオンライン資料
 * [新型コロナウイルス感染症対策としての授業実施上の留意事項について](https://www.shizuoka.ac.jp/news/2020/pdf/2019-nCov/20200331_attention.pdf)
