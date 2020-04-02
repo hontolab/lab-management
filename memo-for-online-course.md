@@ -26,6 +26,7 @@
 
 
 ## 参考になりそうなオンライン資料
+* [新型コロナウイルス感染症対策としての授業実施上の留意事項について](https://www.shizuoka.ac.jp/news/2020/pdf/2019-nCov/20200331_attention.pdf)
 * [新型コロナウイルス感染症対策に伴うICTを活用したオンライン教育等の取り組みについて](https://www.nii.ac.jp/news/2020/0325.html)
 * [オンライン授業・Web会議 ポータルサイト@ 東京大学](https://utelecon.github.io)
 * [オンラインゼミ・チームビルディングの企画・運営マニュアルができました！](http://www.nakahara-lab.net/blog/archive/11415)
