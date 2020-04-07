@@ -22,7 +22,10 @@
 研究室の研究テーマに関連する論文をざっと読み，内容をまとめ，短時間で発表する．
 
 * 月曜日から木曜日までの4日間で論文1報を読み，金曜日の朝活で論文内容を簡単に紹介する
-* 読んだ論文の内容はA4用紙1.5ページ程度にまとめる（担当者はGoogle Drive上の[ジャーナルクラブTemplateファイル](https://docs.google.com/document/d/1fvfHCLNai-YWWLRpPgrNaf_9ZO2IO-d5oix2lI9tMFE)を複製して，論文まとめを作成する）．
+* 読んだ論文の内容はA4用紙1.5ページ程度にまとめる
+  * 担当者はGoogle Drive上の[ジャーナルクラブTemplateファイル](https://docs.google.com/document/d/1fvfHCLNai-YWWLRpPgrNaf_9ZO2IO-d5oix2lI9tMFE)を複製して，論文まとめを作成する
+  * 作成したファイルは「共有ファイル > Shared > Documents > ジャーナルクラブ > 201X年度」に入れること
+  * ファイル名は「論文名」とする
 * M2 1名，M1 1名，B4 1名+アルファからなるグループを作って，グループ単位で論文を1報読み，まとめ，発表する
 * 読む論文は指導教員から受け取る
 * 金曜日の発表では，作成した論文のまとめをA4用紙に印刷して配布する
