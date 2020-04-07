@@ -1,5 +1,5 @@
 # 朝活（ASAKATSU）とは
-朝の決められた時間帯に，研究室のメンバー全員が集まって作業をするイベントである．[筑波大学の白木研究室の活動]((https://www.sbj.or.jp/wp-content/uploads/file/sbj/9711/9711_career_academia_1.pdf))を参考にしている．
+朝の決められた時間帯に，研究室のメンバー全員が集まって作業をするイベントである．[筑波大学の白木研究室の活動](https://www.sbj.or.jp/wp-content/uploads/file/sbj/9711/9711_career_academia_1.pdf)を参考にしている．
 
 # やまもと研究室における朝活のルール
 1. AM9:00-10:30に行う
