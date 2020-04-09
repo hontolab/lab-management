@@ -11,6 +11,7 @@
 
 # 研究手法について
 * [研究テーマ案を検討するための土台づくり](https://gist.github.com/trycycle/ebc300c094180a97edc9286dd2f6843a)
+* [研究を始めた時点から書き始める論文](https://gist.github.com/trycycle/63f2f5fedd6833868ce589eb920408a5)
 * [関連研究の調べ方](https://gist.github.com/trycycle/daab07aeea26b08577949930d49a0e61)
 * [学術分野における作文方法について](https://gist.github.com/trycycle/07fd5fad8daa2ca648257d7210cdb2a4)
 * [DEIMおよび卒論執筆用LaTeXテンプレート](https://github.com/hontolab/DEIM-and-Thesis)
