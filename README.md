@@ -5,21 +5,21 @@
 * [朝活について](https://github.com/hontolab/lab-management/blob/master/asakatsu-tips.md)
 
 # ツール
-* [研究室活動振り返りシート](https://github.com/ymmt3-lab/lab-management/blob/master/activity-evaluation.md)
-* [卒業研究振り返りアンケート](https://github.com/ymmt3-lab/lab-management/blob/master/bachelor-thesis-evaluation.md)
-* [半期目標セットアップシート](https://github.com/ymmt3-lab/lab-management/blob/master/goal-setting.md)
+* [研究室活動振り返りシート](https://github.com/hontolab/lab-management/blob/master/activity-evaluation.md)
+* [卒業研究振り返りアンケート](https://github.com/hontolab/lab-management/blob/master/bachelor-thesis-evaluation.md)
+* [半期目標セットアップシート](https://github.com/hontolab/lab-management/blob/master/goal-setting.md)
 
 # 研究手法について
 * [関連研究の調べ方](https://gist.github.com/trycycle/daab07aeea26b08577949930d49a0e61)
 * [学術分野における作文方法について](https://gist.github.com/trycycle/07fd5fad8daa2ca648257d7210cdb2a4)
-* [DEIMおよび卒論執筆用LaTeXテンプレート](https://github.com/ymmt3-lab/DEIM-and-Thesis)
+* [DEIMおよび卒論執筆用LaTeXテンプレート](https://github.com/hontolab/DEIM-and-Thesis)
 * [読点（、）の打ち方](https://gist.github.com/trycycle/54a572091d37ac18324a2a1679744d2c)
 
 # その他
-* [研究室を検討している学生のみなさんへ（2018年度）](https://github.com/ymmt3-lab/lab-management/blob/master/for-students-looking-for-your-lab-2018.md)
-* [研究室を検討している学生のみなさんへ（2019年度）](https://github.com/ymmt3-lab/lab-management/blob/master/for-students-looking-for-your-lab-2019.md)
-* [ある研究室の年間スケジュール](https://github.com/ymmt3-lab/lab-management/blob/master/schedule.md)
-* [論文投稿先](https://github.com/ymmt3-lab/lab-management/blob/master/target-conference.md)
+* [研究室を検討している学生のみなさんへ（2018年度）](https://github.com/hontolab/lab-management/blob/master/for-students-looking-for-your-lab-2018.md)
+* [研究室を検討している学生のみなさんへ（2019年度）](https://github.com/hontolab/lab-management/blob/master/for-students-looking-for-your-lab-2019.md)
+* [ある研究室の年間スケジュール](https://github.com/hontolab/lab-management/blob/master/schedule.md)
+* [論文投稿先](https://github.com/hontolab/lab-management/blob/master/target-conference.md)
 
 # ブックマーク
 * [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html)
