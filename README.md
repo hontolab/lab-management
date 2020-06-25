@@ -18,8 +18,9 @@
 * [読点（、）の打ち方](https://gist.github.com/trycycle/54a572091d37ac18324a2a1679744d2c)
 
 # その他
-* [研究室を検討している学生のみなさんへ（2018年度）](https://github.com/hontolab/lab-management/blob/master/for-students-looking-for-your-lab-2018.md)
+* [研究室を検討している学生のみなさんへ（2020年度）](https://gist.github.com/trycycle/d0c2bf6e945a7fce23696e25ae174ca5)
 * [研究室を検討している学生のみなさんへ（2019年度）](https://github.com/hontolab/lab-management/blob/master/for-students-looking-for-your-lab-2019.md)
+* [研究室を検討している学生のみなさんへ（2018年度）](https://github.com/hontolab/lab-management/blob/master/for-students-looking-for-your-lab-2018.md)
 * [ある研究室の年間スケジュール](https://github.com/hontolab/lab-management/blob/master/schedule.md)
 * [論文投稿先](https://github.com/hontolab/lab-management/blob/master/target-conference.md)
 
