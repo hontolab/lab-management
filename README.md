@@ -10,6 +10,7 @@
 * [半期目標セットアップシート](https://github.com/hontolab/lab-management/blob/master/goal-setting.md)
 
 # 研究手法について
+* [研究ことはじめ](https://gist.github.com/trycycle/2b057c217e9e4f4aeb692ace33888c3f)
 * [研究テーマ案を検討するための土台づくり](https://gist.github.com/trycycle/ebc300c094180a97edc9286dd2f6843a)
 * [研究を始めた時点から書き始める論文](https://gist.github.com/trycycle/63f2f5fedd6833868ce589eb920408a5)
 * [関連研究の調べ方](https://gist.github.com/trycycle/daab07aeea26b08577949930d49a0e61)
