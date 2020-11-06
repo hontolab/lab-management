@@ -15,7 +15,7 @@
 * [研究を始めた時点から書き始める論文](https://gist.github.com/trycycle/63f2f5fedd6833868ce589eb920408a5)
 * [関連研究の調べ方](https://gist.github.com/trycycle/daab07aeea26b08577949930d49a0e61)
 * [学術分野における作文方法について](https://gist.github.com/trycycle/07fd5fad8daa2ca648257d7210cdb2a4)
-* [DEIMおよび卒論執筆用LaTeXテンプレート](https://github.com/hontolab/DEIM-and-Thesis)
+* 卒論執筆用LaTeXテンプレート
 * [読点（、）の打ち方](https://gist.github.com/trycycle/54a572091d37ac18324a2a1679744d2c)
 
 # その他
@@ -34,3 +34,4 @@
 * [稲見・檜山研究室 運営方針](https://note.mu/drinami/n/nbb29c0db43e2#WDK5U)
 * [自分に合った研究室を選ぶために（稲見先生@東京大学）](https://note.mu/drinami/n/nccf6c3160955)
 * [大学院・研究者を目指す人へ](http://www7b.biglobe.ne.jp/\~masaoamano/Masao_Amanos/for_future_graduate_students.html)
+* [（東京大学曆本先生の）研究法](https://www.youtube.com/watch?v=vn0cL7fxYh8)
