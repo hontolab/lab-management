@@ -15,7 +15,7 @@
 * [研究を始めた時点から書き始める論文](https://gist.github.com/trycycle/63f2f5fedd6833868ce589eb920408a5)
 * [関連研究の調べ方](https://gist.github.com/trycycle/daab07aeea26b08577949930d49a0e61)
 * [学術分野における作文方法について](https://gist.github.com/trycycle/07fd5fad8daa2ca648257d7210cdb2a4)
-* [論文執筆のためのチェックリスト](https://github.com/hontolab/lab-management/blob/master/checklist-for-writing-paper.md)
+* [論文執筆のためのチェックリスト](https://gist.github.com/trycycle/5223909fba402c86ceb603ee65ee0926)
 * 卒論執筆用LaTeXテンプレート
 * [読点（、）の打ち方](https://gist.github.com/trycycle/54a572091d37ac18324a2a1679744d2c)
 
