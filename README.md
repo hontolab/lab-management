@@ -8,6 +8,7 @@
 * [研究室活動振り返りシート](https://github.com/hontolab/lab-management/blob/master/activity-evaluation.md)
 * [卒業研究振り返りアンケート](https://github.com/hontolab/lab-management/blob/master/bachelor-thesis-evaluation.md)
 * [半期目標セットアップシート](https://github.com/hontolab/lab-management/blob/master/goal-setting.md)
+* [研究室活動ベンチマーク指標](https://gist.github.com/trycycle/dcb7a951c3e22a84140137f4aa2d179e)
 
 # 研究手法について
 * [研究ことはじめ](https://gist.github.com/trycycle/2b057c217e9e4f4aeb692ace33888c3f)
